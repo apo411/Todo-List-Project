@@ -1,2 +1,2 @@
 # Todo-List-Project
-Ana kısımları bootstrap ile yapılmıştır
+Sitenin ana görünüş yerleri bootstrap ile yapılmıştır kullanmak geliştirmek isteyenler kullana bilir.
