@@ -1,2 +1,3 @@
 # Todo-List-Project
-Sitenin ana görünüş yerleri bootstrap ile yapılmıştır kullanmak geliştirmek isteyenler kullana bilir.
+Udmy de aldığım ders ile yapılan çalışmka
+
